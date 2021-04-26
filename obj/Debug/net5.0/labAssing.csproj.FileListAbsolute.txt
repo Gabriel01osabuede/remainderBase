@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.exe
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.deps.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.runtimeconfig.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.runtimeconfig.dev.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\ref\labAssing.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\bin\Debug\net5.0\labAssing.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.csprojAssemblyReference.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.AssemblyInfo.cs
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\ref\labAssing.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\labAssing\obj\Debug\net5.0\labAssing.genruntimeconfig.cache
